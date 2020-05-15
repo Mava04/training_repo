@@ -1,0 +1,23 @@
+commit f940fe56fd8e450c3703178c93ad44c46a8d554c
+Author: Mava04 <martinavarisco95@gmail.com>
+Date:   Fri May 15 12:07:13 2020 +0200
+
+    added gitignore
+
+commit ad3e1b0669ddff3868368db9bb91bf269f64fbb4
+Author: Mava04 <martinavarisco95@gmail.com>
+Date:   Fri May 15 11:52:39 2020 +0200
+
+    added files file3.txt, file4.txt
+
+commit 8afd366554ff40556c925796c742c0a3cf82f649
+Author: Mava04 <martinavarisco95@gmail.com>
+Date:   Fri May 15 11:45:07 2020 +0200
+
+    added two files
+
+commit 6fa2e5abf560cc7f7defa51955a9a801736b5af5
+Author: Mava04 <martinavarisco95@gmail.com>
+Date:   Fri May 15 11:40:18 2020 +0200
+
+    added readme.txt
