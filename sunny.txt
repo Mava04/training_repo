@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It's so cloudy
+=======
+It's so windy
+>>>>>>> b2
